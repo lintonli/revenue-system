@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "bootstrap": "^5.2.3"
+  },
+  "require": {
+    "dompdf/dompdf": "^1.0"
+}
+}
+
+  
